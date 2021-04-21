@@ -1,3 +1,7 @@
+# Training set
+
+The training set should be obtained from the `midi_preprocess/data_biLstm` folder and it should be put in the `notes` folder.
+
 # Training
 
 Please specify the training set and the number of epochs as two arguments.
