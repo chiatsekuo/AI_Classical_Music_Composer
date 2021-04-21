@@ -5,7 +5,7 @@ This project aims to generate Classical Music using generative models – Bi-LST
 - The **dataset** is obtained from https://github.com/bytedance/GiantMIDI-Piano.
 - The **four musical eras** being trained and tested are *Baroque, Classical, Romantic, and Modernist eras*.
 - **Evaluation metrics**: *Pitch histogram, FID score, nearest neighbor, and survey*.
-- It is recommended to use the **https://musescore.org/en** software to play the midi files. It is a free music sheet editing tool that can visualize music in music sheet forms.
+- It is recommended to use the **https://musescore.org/en** software to play the midi files. It is a free music sheet editing tool that can visualize music in music sheet forms and also convert midi files to mp3 format.
 
 
 
