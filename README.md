@@ -8,6 +8,20 @@ The four musical eras being trained and tested are *Baroque, Classical, Romantic
 
 Evaluation metrics: *Pitch histogram, FID score, nearest neighbor, and survey*.
 
+## Instruction
+
+1.  Prepare your own midi files or use the provided midi files in the `midi_preprocess/midi/` folder.
+2.  Convert the original midi files into trainable datasets. (Follow the steps in `midi_preprocess/midPreprocess.ipynb`)
+3.  Copy your processed datasets from either `midi_preprocess/data_biLstm/` or `midi_preprocess/data_gan/` to either `Bi-LSTM/notes/` or `GAN/notes/`. Notice that some datasets are provided as examples. you may also use these for the later training processes.
+
+### Bi-LSTM training & generation
+
+Detailed instructions are provided in the `Bi-LSTM` folder.
+
+### GAN training & generation
+
+Detailed instructions are provided in the `GAN` folder.
+
 ## Conclusion
 
 Among the four Classical Music eras, I found the Bi-LSTM model suitable for generating Baroque, Classical, and some Romantic Music owing to the design of the Bi-LSTM model and the nature of these musical styles. These types of music require strict rules and are less complexed than the Modernist music. The design of LSTMs works just well for doing these tasks. On the other hand, the GAN model seems to be more creative and stochastic in generating music. I therefore consider it suitable for generating Modernist Music.
