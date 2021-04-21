@@ -6,7 +6,7 @@ The dataset is obtained from https://github.com/bytedance/GiantMIDI-Piano
 
 The four musical eras being trained and tested are *Baroque, Classical, Romantic, and Modernist eras*.
 
-Evaluation metrics: Pitch histogram, FID score, nearest neighbor, and survey.
+Evaluation metrics: *Pitch histogram, FID score, nearest neighbor, and survey*.
 
 ## Conclusion
 
