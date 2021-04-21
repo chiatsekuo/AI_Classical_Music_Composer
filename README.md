@@ -2,7 +2,7 @@
 
 This project aims to generate Classical Music using generative models – Bi-LSTM and CNN-GAN to compose Classical Music for some particular Classical Music genres and evaluate their performance respectively and collectively. Also, to further explore and strengthen the area of Artificial Intelligence in music composition.
 
-The **dataset** is obtained from https://github.com/bytedance/GiantMIDI-Piano
+The **dataset** is obtained from https://github.com/bytedance/GiantMIDI-Piano.
 
 The **four musical eras** being trained and tested are *Baroque, Classical, Romantic, and Modernist eras*.
 
