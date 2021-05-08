@@ -8,7 +8,7 @@ This project aims to generate Classical Music using generative models – Bi-LST
 - It is recommended to use the **https://musescore.org/en** software to play the midi files. It is a free music sheet editing tool that can visualize music in music sheet forms and also convert midi files to mp3 format.
 
 ## Demonstration
-A video demonstrating the system can be accessed [here](https://1drv.ms/v/s!AhjIIVcsidoXalRgJqUKU2J2qr8?e=FGc3bp)
+A video demonstration of the system can be accessed [here](https://1drv.ms/v/s!AhjIIVcsidoXalRgJqUKU2J2qr8?e=FGc3bp)
 
 ## Instruction
 
